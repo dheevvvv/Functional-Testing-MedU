@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05 Register Doctor (Negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcb99ba3-0db1-4dc1-b01f-c64fbe4134ab</testCaseGuid>
+</TestCaseEntity>

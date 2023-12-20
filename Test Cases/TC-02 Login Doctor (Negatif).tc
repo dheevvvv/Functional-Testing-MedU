@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02 Login Doctor (Negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf110fdb-376a-4998-8e53-20e0513ce275</testCaseGuid>
+</TestCaseEntity>
