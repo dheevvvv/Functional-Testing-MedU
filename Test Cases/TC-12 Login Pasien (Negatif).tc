@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-12 Login Pasien (Negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcbb1ba4-7da4-42c4-a662-6d9c656b6e53</testCaseGuid>
+</TestCaseEntity>
